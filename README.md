@@ -5,3 +5,5 @@ OS Required:
 	Linux x64
 	Linux x32
 >> install a c compiler
+>> Download the Repository
+
