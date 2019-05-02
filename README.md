@@ -7,3 +7,10 @@ OS Required:
 >> install a c compiler
 >> Download the Repository
 
+Open Terminal
+
+>>cd system-calls-with-c
+ 
+Once you're in that folder,
+
+>>cd src
