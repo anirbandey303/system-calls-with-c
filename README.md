@@ -14,3 +14,7 @@ Open Terminal
 Once you're in that folder,
 
 >>cd src
+
+>>gcc systemCalls.c -o run
+
+>>./run
