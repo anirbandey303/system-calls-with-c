@@ -15,6 +15,9 @@ Once you're in that folder,
 
 >>cd src
 
+To Compile the source code
+
 >>gcc systemCalls.c -o run
 
+To execute the code
 >>./run
