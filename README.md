@@ -5,7 +5,9 @@ OS Required:
 	Linux x64
 	Linux x32
 >> install a c compiler
->> Download the Repository
+>> Download/Clone the Repository
+
+>>git clone <link>
 
 Open Terminal
 
