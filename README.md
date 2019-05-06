@@ -7,7 +7,7 @@ OS Required:
 >> install a c compiler
 >> Download/Clone the Repository
 
->>git clone <link>
+>>git clone https://github.com/anirbandey303/system-calls-with-c.git
 
 Open Terminal
 
