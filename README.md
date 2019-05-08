@@ -5,7 +5,7 @@ OS Required:
 	Linux x64
 	Linux x32
 >> install a c compiler
->> Download/Clone the Repository
+Download/Clone the Repository
 
 >>git clone https://github.com/anirbandey303/system-calls-with-c.git
 
