@@ -4,7 +4,12 @@ To implement the Process System Calls &amp; I/O System Calls
 OS Required:
 	Linux x64
 	Linux x32
-Install gcc on your machine
+	
+Confirm your installation by checking for GCC version:
+
+>>$ gcc --version
+
+Install gcc on your machine:
 Download/Clone the Repository
 
 >>git clone https://github.com/anirbandey303/system-calls-with-c.git
